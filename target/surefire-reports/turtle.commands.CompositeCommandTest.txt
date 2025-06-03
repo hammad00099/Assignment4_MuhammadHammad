@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: turtle.commands.CompositeCommandTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.047 s -- in turtle.commands.CompositeCommandTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.079 s -- in turtle.commands.CompositeCommandTest
