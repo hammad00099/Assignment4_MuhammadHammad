@@ -1,0 +1,4 @@
+turtle\commands\CommandTest.class
+turtle\TurtleTest.class
+turtle\MatrixTest.class
+turtle\commands\CompositeCommandTest.class
